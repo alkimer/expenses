@@ -1,0 +1,10 @@
+
+# Dependencias necesarias para ejecutar la aplicación de gastos
+#
+# Nota: Tkinter y SQLite son módulos de la biblioteca estándar de Python y
+# generalmente vienen incluidos con la instalación de Python. Sin embargo,
+# algunas distribuciones pueden requerir instalar una extensión de GUI como
+# `python3-tk` a través del gestor de paquetes del sistema.
+
+PyMuPDF>=1.22.0
+matplotlib>=3.3
